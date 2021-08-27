@@ -36,6 +36,8 @@ export default function Login() {
         <img
           src="/images/iphone-with-profile.jpg"
           alt="iPhone with Instagram app"
+          width="100%"
+          height="100%"
         />
       </div>
       <div className="flex flex-col w-2/5">
