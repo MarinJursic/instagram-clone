@@ -45,6 +45,8 @@ export default function Login() {
               src="/images/logo.png"
               alt="Instagram"
               className="mt-2 w-6/12 mb-4"
+              width="100%"
+              height="100%"
             />
           </h1>
 
